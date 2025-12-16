@@ -16,7 +16,7 @@ GET /api/users/{5} HTTP/1.1
 Host: reqres.in
 Authorization: API Key
 ```
-## Успешный ответ (200 OK)
+### Успешный ответ (200 OK)
 ```json
 {
     "data": {
