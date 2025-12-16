@@ -12,7 +12,7 @@
 
 ### 📝 Пример запроса из файла
 ```http
-GET /api/users/{5} HTTP/1.1
+GET /api/users/5 HTTP/1.1
 Host: reqres.in
 Authorization: API Key
 ```
