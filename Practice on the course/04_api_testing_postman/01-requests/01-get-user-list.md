@@ -41,5 +41,5 @@ pm.test("Response time is less than 200ms", function () {
 | Общее время |	92 мс |	В пределах нормы |
 
 🔗 Связанные запросы
-GET User list
-GET Non-existent user
+- GET User list
+- GET Non-existent user
