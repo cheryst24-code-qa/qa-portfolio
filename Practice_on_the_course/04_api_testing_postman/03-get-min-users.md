@@ -1,34 +1,22 @@
-# 📋 Запрос: GET Min Users
+## 📋 Запрос: GET Min Users
 
-## 🎯 Назначение
+### 🎯 Назначение
 Получение минимального количества пользователей
 
-## 🔧 Технические детали
+### 🔧 Технические детали
 - **Метод:** `GET`
-- **Коллекция:** Reqres 
+- **Коллекция:** Reqres → Get user
+- **Окружение:** url, x-api-key
+- **Авторизация:** API Key
+- **Теги:** `min users`
 
-## 📋 🎯 Цель теста
-Проверка корректности работы API при:
-- Минимальном количестве возвращаемых данных
-- Корректной работе пагинации
-- Сохранении структуры ответа
-
-## 🧪 Проверки (no testing)
-```javascript
-pm.test("Returns users when min count requested", function () {
-    const response = pm.response.json();
-    pm.expect(response.data).to.be.an('array');
-    pm.expect(response.data.length).to.be.above(0);
-});
-
-pm.test("Pagination works with min users", function () {
-    const response = pm.response.json();
-    pm.expect(response).to.have.property('total');
-    pm.expect(response).to.have.property('per_page');
-});
+### 📝 Пример запроса из файла
+```http
+GET /api/users/1 HTTP/1.1
+Host: reqres.in
+Authorization: API Key
 ```
-## Успешный ответ (200 OK)
-
+### Успешный ответ (200 OK)
 ```json
 {
     "data": {
@@ -37,24 +25,36 @@ pm.test("Pagination works with min users", function () {
         "first_name": "George",
         "last_name": "Bluth",
         "avatar": "https://reqres.in/img/faces/1-image.jpg"
-    },
-    "support": {
-        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
-        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
-    },
-    "_meta": {
-        "powered_by": "🚀 ReqRes - Deploy backends in 30 seconds",
-        "upgrade_url": "https://app.reqres.in/upgrade",
-        "docs_url": "https://reqres.in",
-        "template_gallery": "https://app.reqres.in/templates",
-        "message": "This API is powered by ReqRes. Deploy your own backend in 30 seconds!",
-        "features": [
-            "30 Second Backend Templates",
-            "Custom API Endpoints",
-            "Data Persistence",
-            "Real-time Analytics"
-        ],
-        "upgrade_cta": "Upgrade to Pro for unlimited requests, custom endpoints, and data persistence"
     }
 }
 ```
+### 🧪 Проверки
+```javascript
+// Проверка статуса
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+// Проверка заголовков
+pm.test("Content-Type is present", function () {
+    pm.response.to.have.header("Content-Type");
+});
+
+// Проверка времени ответа
+pm.test("Response time is less than 200ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(200);
+});
+```
+### 📊 Результаты тестирования
+| Метрика |	Значение | Статус |
+|-----------|-----------|-----------|
+| Статус | код	200 | ✅ PASS |
+| Content-Type | Присутствует |	✅ PASS |
+| Время ответа | <200 мс | ✅ PASS |
+| Общее время |	92 мс |	В пределах нормы |
+
+### 🎯 Цель теста
+1. Проверка корректности работы API при:
+2. Минимальном количестве возвращаемых данных
+3. Корректной работе пагинации
+4. Сохранении структуры ответа
