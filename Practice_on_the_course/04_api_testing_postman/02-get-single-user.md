@@ -16,6 +16,18 @@ GET /api/users/{id} HTTP/1.1
 Host: reqres.in
 Authorization: API Key
 ```
+## Успешный ответ (200 OK)
+```json
+{
+    "data": {
+        "id": 5,
+        "email": "charles.morris@reqres.in",
+        "first_name": "Charles",
+        "last_name": "Morris",
+        "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+}
+```
 ## 🧪 Проверки
 ```javascript
 // Проверка статуса
@@ -40,7 +52,3 @@ pm.test("Response time is less than 200ms", function () {
 | Content-Type | Присутствует |	✅ PASS |
 | Время ответа | <200 мс | ✅ PASS |
 | Общее время |	92 мс |	В пределах нормы |
-
-🔗 Связанные запросы
-- GET User list
-- GET Non-existent user
