@@ -16,3 +16,37 @@ GET /api/users HTTP/1.1
 Host: reqres.in
 Authorization: API Key
 ```
+
+## 📝 Пример запроса из файла
+GET /api/users/{id} HTTP/1.1
+Host: reqres.in
+Authorization: API Key
+
+## 🧪 Проверки
+```
+// Проверка статуса
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+// Проверка заголовков
+pm.test("Content-Type is present", function () {
+    pm.response.to.have.header("Content-Type");
+});
+
+// Проверка времени ответа
+pm.test("Response time is less than 200ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(200);
+});
+```
+## 📊 Результаты тестирования
+| Метрика |	Значение | Статус |
+|-----------|-----------|-----------|
+| Статус | код	200 | ✅ PASS |
+| Content-Type | Присутствует |	✅ PASS |
+| Время ответа | <200 мс | ✅ PASS |
+| Общее время |	92 мс |	В пределах нормы |
+
+🔗 Связанные запросы
+- GET User list
+- GET Non-existent user
