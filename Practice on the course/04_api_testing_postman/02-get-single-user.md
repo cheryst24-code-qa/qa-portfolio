@@ -16,7 +16,7 @@ Host: reqres.in
 Authorization: API Key
 
 ## 🧪 Проверки
-```
+```http
 // Проверка статуса
 pm.test("Status code is 200", function () {
     pm.response.to.have.status(200);
