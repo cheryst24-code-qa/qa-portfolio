@@ -17,6 +17,7 @@ Host: reqres.in
 Authorization: API Key
 ```
 ## ✅ Успешный ответ (200 OK)
+
 ```json
 {
     "page": 1,
@@ -94,7 +95,3 @@ pm.test("Response time is less than 200ms", function () {
 | Content-Type | Присутствует |	✅ PASS |
 | Время ответа | <200 мс | ✅ PASS |
 | Общее время |	92 мс |	В пределах нормы |
-
-🔗 Связанные запросы
-- GET User list
-- GET Non-existent user
