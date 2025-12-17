@@ -9,7 +9,6 @@
 ## Шаг 1. Выбор веб-сайта
 
 Для анализа выбран интернет-банк БСПБ https://idemo.bspb.ru/
-
 Документация - https://cdn.bspb.ru/Rukovodstvo_polzovatelja_IB_67b34e84c0.pdf
 
 ---
