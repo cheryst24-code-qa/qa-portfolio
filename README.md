@@ -20,20 +20,20 @@
 
 **Файлы:**
 - [Анализ сайта и сценарии](./Practice_on_the_course/01_web_banking_testing/analysis_report.md)
-- [Тест-кейсы банка](./01_web_banking_testing/test_cases_bank.md)
-- [Баг-репорты](./01_web_banking_testing/bug_reports_bank.md)
+- [Тест-кейсы банка](./Practice_on_the_course/01_web_banking_testing/test_cases_bank.md)
+- [Баг-репорты](./Practice_on_the_course/01_web_banking_testing/bug_reports_bank.md)
 
-### [02. Тестирование мобильного приложения](./02_mobile_app_testing/)
+### [02. Тестирование мобильного приложения](./Practice_on_the_course/02_mobile_app_testing/lemanapro_test_report.md)
 **Приложение:** Лемана ПРО (B2B2C)  
 **Типы тестирования:** Функциональное, UI/UX, безопасность, офлайн-работа  
 **Найденные дефекты:** 3 (2 критических - SQL-инъекции)
 
-### [03. SQL-запросы для проверки целостности данных](./03_sql_queries/)
+### [03. SQL-запросы для проверки целостности данных](./Practice_on_the_course/03_sql_queries/)
 **Приложение:** Лемана ПРО (B2B2C)  
 **Типы тестирования:** Функциональное, UI/UX, безопасность, офлайн-работа  
 **Найденные дефекты:** 3 (2 критических - SQL-инъекции)
 
-### [04. API тестирование (Postman)](./04_api_testing_postman/)
+### [04. API тестирование (Postman)](./Practice_on_the_course/04_api_testing_postman/)
 **API:** ReqRes.in (учебное)  
 **Тесты:** GET, POST, PUT, PATCH, DELETE запросы  
 **Результаты:** 20 тестов, автоматический запуск
