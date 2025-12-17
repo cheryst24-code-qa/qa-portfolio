@@ -19,7 +19,7 @@
 - Анализ требований и сценариев использования
 
 **Файлы:**
-- [Анализ сайта и сценарии](./01_web_banking_testing/analysis_report.md)
+- [Анализ сайта и сценарии](./Practice_on_the_course/01_web_banking_testing/analysis_report.md)
 - [Тест-кейсы банка](./01_web_banking_testing/test_cases_bank.md)
 - [Баг-репорты](./01_web_banking_testing/bug_reports_bank.md)
 
