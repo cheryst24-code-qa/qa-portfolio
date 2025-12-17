@@ -33,7 +33,7 @@
 Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официальная сборка) (64 бит)
 
 ### Вложение
-Скриншот бага[БР1](https://cloud.mail.ru/public/NamT/jb3drBo9A)
+Скриншот бага [БР1](https://cloud.mail.ru/public/NamT/jb3drBo9A)
 
 </details>
 
@@ -62,7 +62,7 @@ Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официа
 Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официальная сборка) (64 бит)
 
 ### Вложение
-Скриншот бага[БР2](https://cloud.mail.ru/public/BDhx/6Prh7iPGa)
+Скриншот бага [БР2](https://cloud.mail.ru/public/BDhx/6Prh7iPGa)
 
 </details>
 
