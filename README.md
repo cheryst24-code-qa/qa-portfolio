@@ -1,4 +1,4 @@
-# QA Portfolio | Игорь Черкасов
+# QA Portfolio
 
 ## 🛠️ Ключевые навыки
 - Ручное тестирование (Web, Mobile)
