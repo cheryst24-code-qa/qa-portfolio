@@ -39,18 +39,18 @@
 - 10 тест-кейсов (7 PASS, 3 FAIL)
 - 2 баг-репорта с критическими дефектами
 - Анализ требований и сценариев использования
-🔗 [GitHub: web_banking_testing](./Practice_on_the_course/01_web_banking_testing/)
+🔗 [GitHub: web_banking_testing](https://github.com/cheryst24-code-qa/Practice_on_the_course/01_web_banking_testing/)
 
 ### 2. Тестирование мобильного приложения
 **Приложение:** Лемана ПРО (B2B2C)  
 **Типы тестирования:** Функциональное, UI/UX, безопасность, офлайн-работа  
 **Найденные дефекты:** 3 (2 критических - SQL-инъекции)
-🔗 [GitHub: mobile_app_testing](./Practice_on_the_course/02_mobile_app_testing/)
+🔗 [GitHub: mobile_app_testing](https://github.com/cheryst24-code-qa/Practice_on_the_course/02_mobile_app_testing/)
 
 ### 3. API-тестирование (HiTE PRO Gateway)
 ### 3.1. Ручное API-тестирование
 - **Postman**, работа с документацией  
-🔗 [GitHub: hitepro-api-tests](./hitepro-api-tests/docs/MANUAL-TESTING.md)
+🔗 [GitHub: hitepro-api-tests](https://github.com/cheryst24-code-qa/hitepro-api-tests/docs/MANUAL-TESTING.md)
 
 ### 3.2. Автоматизированное API-тестирование
 - **Playwright + JavaScript**, полное покрытие спецификации  
