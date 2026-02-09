@@ -47,11 +47,11 @@
 ### 3. 📡 API-тестирование (HiTE PRO Gateway)
 **API:** HiTE PRO (Боевое окружение) 
 
-### [3.1. API-тесты через Postman + Newman](https://github.com/cheryst24-code-qa/hitepro-api-tests/docs/MANUAL-TESTING.md)
+### [3.1. API-тесты через Postman + Newman](https://github.com/cheryst24-code-qa/hitepro-api-tests/blob/main/docs/MANUAL-TESTING.md)
 - **Тесты:** GET, POST, PUT, PATCH, DELETE запросы  
 - **Результаты:** 20 тестов, автоматический запуск, динамическое определение устройств
 
-### [3.2. Автоматизированное API-тестирование](https://github.com/cheryst24-code-qa/hitepro-api-tests/README.md)
+### [3.2. Автоматизированное API-тестирование](https://github.com/cheryst24-code-qa/hitepro-api-tests)
 - **Playwright + JavaScript**, полное покрытие спецификации  
 - **CI/CD через GitHub Actions**, Telegram-уведомления, HTML-отчёты  
 
