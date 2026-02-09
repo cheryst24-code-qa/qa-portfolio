@@ -38,13 +38,13 @@
 - 10 тест-кейсов (7 PASS, 3 FAIL)
 - 2 баг-репорта с критическими дефектами
 - Анализ требований и сценариев использования
-🔗 [GitHub: web_banking_testing](./Practice_on_the_course/01_web_banking_testing/)
+ 🔗 [GitHub: web_banking_testing](./Practice_on_the_course/01_web_banking_testing/)
 
 ### 2. 📱 Тестирование мобильного приложения
 **Приложение:** Лемана ПРО (B2B2C)  
 **Типы тестирования:** Функциональное, UI/UX, безопасность, офлайн-работа  
 **Найденные дефекты:** 3 (2 критических - SQL-инъекции)
-🔗 [GitHub: mobile_app_testing]()./Practice_on_the_course/02_mobile_app_testing/lemanapro_test_report.md)
+ 🔗 [GitHub: mobile_app_testing](./Practice_on_the_course/02_mobile_app_testing/lemanapro_test_report.md)
 
 ### 3. 📡 API-тестирование (HiTE PRO Gateway)
 
@@ -53,27 +53,27 @@
 ### 3.1. API-тесты через Postman + Newman
 - **Тесты:** GET, POST, PUT, PATCH, DELETE запросы  
 - **Результаты:** 20 тестов, автоматический запуск, динамическое определение устройств
-🔗 [GitHub: hitepro-api-tests](./hitepro-api-tests/docs/MANUAL-TESTING.md)
+ 🔗 [GitHub: hitepro-api-tests](./hitepro-api-tests/docs/MANUAL-TESTING.md)
 
 ### 3.2. Автоматизированное API-тестирование
 - **Playwright + JavaScript**, полное покрытие спецификации  
 - **CI/CD через GitHub Actions**, Telegram-уведомления, HTML-отчёты  
-🔗 [GitHub: hitepro-api-tests](./hitepro-api-tests)
+ 🔗 [GitHub: hitepro-api-tests](./hitepro-api-tests)
 
 ### 4. 📡 API-тесты через Postman + Newman
 - Автоматический запуск, динамическое определение устройств  
 - Интеграция с GitHub Actions без «утечки» секретов  
-🔗 [GitHub: hite-pro-test-postman](./hite-pro-test-postman)
+ 🔗 [GitHub: hite-pro-test-postman](./hite-pro-test-postman)
 
 ### 5. 🗄️ Валидация API <-> БД (ЛЭРС УЧЁТ)
 - Сравнение данных между REST API и MS SQL Server  
 - Учёт различий в именовании полей, нормализация значений  
-🔗 [GitHub: lers-api-db-check](./lеrs-api-db-check)
+ 🔗 [GitHub: lers-api-db-check](./lеrs-api-db-check)
 
 ### 6. 🛒 UI-автоматизация (demoshopping.ru)
 - End-to-end сценарии: регистрация, поиск, корзина, заказ  
 - Кросс-браузерность и адаптивность  
-🔗 [GitHub: demo-shopping-playwright](./demo-shopping-playwright)
+ 🔗 [GitHub: demo-shopping-playwright](./demo-shopping-playwright)
 
 ---
 
