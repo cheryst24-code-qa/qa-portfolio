@@ -44,12 +44,12 @@
 Типы тестирования: Функциональное, UI/UX, безопасность, офлайн-работа  
 Найденные дефекты: 3 (2 критических - SQL-инъекции)
 
-### [3. 📡 API-тестирование (HiTE PRO Gateway) через Postman + Newman](https://github.com/cheryst24-code-qa/hitepro-api-tests/blob/main/docs/MANUAL-TESTING.md)
+### [3. 📡 API-тестирование HiTE PRO Gateway через Postman + Newman](https://github.com/cheryst24-code-qa/hitepro-api-tests/blob/main/docs/MANUAL-TESTING.md)
 - API: HiTE PRO (Боевое окружение) 
 - Тесты: GET, PUT запросы  
 - Результаты: 20 тестов, автоматический запуск, динамическое определение устройств
 
-### [3.1. 📡 Автоматизированное API-тестирование](https://github.com/cheryst24-code-qa/hitepro-api-tests)
+### [3.1. 📡 Автоматизированное API-тестирование HiTE PRO Gateway](https://github.com/cheryst24-code-qa/hitepro-api-tests)
 - API: HiTE PRO (Боевое окружение) 
 - Playwright + JavaScript, полное покрытие спецификации  
 - CI/CD через GitHub Actions, Telegram-уведомления, HTML-отчёты  
