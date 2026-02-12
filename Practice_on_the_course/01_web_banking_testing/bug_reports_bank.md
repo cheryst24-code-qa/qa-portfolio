@@ -33,7 +33,7 @@
 Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официальная сборка) (64 бит)
 
 ### Вложение
-Скриншот бага [БР1](./Practice_on_the_course/01_web_banking_testing/docs/bug_1.png)
+Скриншот бага [БР1](./docs/bug_1.png)
 
 </details>
 
@@ -62,7 +62,7 @@ Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официа
 Windows 11 (64 бит); Google Chrome Версия: 142.0.7444.135 (Официальная сборка) (64 бит)
 
 ### Вложение
-Скриншот бага [БР2](./Practice_on_the_course/01_web_banking_testing/docs/bug_2.png)
+Скриншот бага [БР2](./docs/bug_2.png)
 
 </details>
 
