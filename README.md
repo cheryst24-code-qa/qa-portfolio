@@ -84,7 +84,12 @@
     1. Чтобы проверять не только интерфейс, но и целостность данных, я выполнил задачу по SQL. Создал базу,
        таблицу, заполнил её и выполнил сортировку. Этот навык позволяет напрямую верифицировать данные
        после действий в приложении.
-![Report](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/03_sql_queries/docs/db.png)
+<details>
+<summary>Скриншот тестового запроса</summary>
+
+![Test Report](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/03_sql_queries/docs/db.png)
+
+</details>
 
     2. Имея прямой доступ к MS SQL: ЛЭРС УЧЁТ, я выполнил запросы в режиме только чтение (SELECT) в
        тестовом окружении LERS. Каждый пример решает конкретную тестовую задачу - от валидации
