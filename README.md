@@ -72,14 +72,13 @@
     1. Используя инструмент, который эмулирует REST API: reqres.in - я отработал навык тестирования API
        в Postman. Я создал коллекцию, применив все основные HTTP-методы: GET, POST, PUT, PATCH, DELETE.
    [🔗 Тестирование API Reqres.in](https://github.com/cheryst24-code-qa/qa-portfolio/tree/main/Practice_on_the_course/04_api_testing_postman)
----
 
+---
     2. API-тестирование HiTE PRO Gateway (боевое окружение)
        - Цель не просто проверить шлюз, а научиться работать с инструментами Postman, Newman, GitHub
          Actions.       
-   [🔗 API-тестирование HiTE PRO Gateway через Postman + Newman](https://github.com/cheryst24-code-qa/hite-pro-test-postman)
+    [🔗 API-тестирование HiTE PRO Gateway через Postman + Newman](https://github.com/cheryst24-code-qa/hite-pro-test-postman)
 ---
-
     3. Автоматизированное API-тестирование HiTE PRO Gateway (боевое окружение)
        - Playwright + JavaScript, полное покрытие спецификации  
        - CI/CD через GitHub Actions, Telegram-уведомления, HTML-отчёты
@@ -92,7 +91,7 @@
        таблицу, заполнил её и выполнил сортировку. Этот навык позволяет напрямую верифицировать данные
        после действий в приложении.
 <details>
-<summary>Скриншот тестового запроса</summary>
+<summary>🔗 Пример</summary>
 
 ![Test Report](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/03_sql_queries/docs/db.png)
 
