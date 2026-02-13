@@ -25,7 +25,7 @@
 
 ### Коллекция: **Reqres**
 #### **Get user** (GET запросы):
-1. [`user list`](/Practice_on_the_course/04_api_testing_postman/docs/create_20user.png) - получение списка пользователей
+1. [`user list`](/Practice_on_the_course/04_api_testing_postman/docs/create_user.png) - получение списка пользователей
 2. `single user` - получение одного пользователя
 3. `min users` - минимальное количество пользователей
 4. `zero users` - пустой список пользователей  
