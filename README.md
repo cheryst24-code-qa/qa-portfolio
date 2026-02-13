@@ -25,10 +25,10 @@
 ![Test Design](https://img.shields.io/badge/Test_Design-✓-green)
 ![Postman](https://img.shields.io/badge/Postman-✓-orange?logo=postman)
 ![Playwright](https://img.shields.io/badge/Playwright-✓-red?logo=playwright)
-![JavaScript](https://img.shields.io/badge/JavaScript-✓-yellow?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-✓-purple)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-✓-gray?logo=github)
 ![Kaiten / Test IT](https://img.shields.io/badge/Test_Management-✓-teal)
+![JavaScript](https://img.shields.io/badge/JavaScript-✓-yellow?logo=javascript)
 ![AI-Assisted](https://img.shields.io/badge/AI--Assisted-6A5ACD)
 ![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-✓-4CAF50)
 ---
