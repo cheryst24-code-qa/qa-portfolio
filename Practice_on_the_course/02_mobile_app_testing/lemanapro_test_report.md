@@ -44,7 +44,7 @@
 ---
 
 <details>
-<summary>📑 РЕЗУЛЬТАТЫ ТЕСТИРОВАНИЯ</summary>
+<summary><span style="color: blue;">📑 РЕЗУЛЬТАТЫ ТЕСТИРОВАНИЯ</span></summary>
 
 ### Результаты тестирования
 
