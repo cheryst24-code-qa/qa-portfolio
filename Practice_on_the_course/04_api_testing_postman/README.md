@@ -37,10 +37,10 @@
 7. [`create user`](/Practice_on_the_course/04_api_testing_postman/docs/create_user.png) - создание пользователя
 8. [`register user`](/Practice_on_the_course/04_api_testing_postman/docs/register_user.png) - регистрация пользователя
 9. [`update full user`](/Practice_on_the_course/04_api_testing_postman/docs/update_full_user.png) - полное обновление (PUT)
-10.[ `update user`](/Practice_on_the_course/04_api_testing_postman/docs/update_user.png) - частичное обновление (PATCH)
-11.[ `authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/authorization_user.png) - авторизация
-12.[ `negative register user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_register_user.png) - негативная регистрация
-13.[ `negative authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_authorization_user.png) - негативная авторизация
+10. [`update user`](/Practice_on_the_course/04_api_testing_postman/docs/update_user.png) - частичное обновление (PATCH)
+11. [`authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/authorization_user.png) - авторизация
+12. [`negative register user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_register_user.png) - негативная регистрация
+13. [`negative authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_authorization_user.png) - негативная авторизация
 
 #### **Delete** (DELETE запросы):
 14. [`delete user`](/Practice_on_the_course/04_api_testing_postman/docs/delete_user.png) - удаление пользователя
