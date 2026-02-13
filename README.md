@@ -77,7 +77,7 @@
     2. API-тестирование HiTE PRO Gateway (боевое окружение)
        - Цель не просто проверить шлюз, а научиться работать с инструментами Postman, Newman, GitHub
          Actions.       
-    [🔗 API-тестирование HiTE PRO Gateway через Postman + Newman](https://github.com/cheryst24-code-qa/hite-pro-test-postman)
+  [🔗 API-тестирование HiTE PRO Gateway через Postman + Newman](https://github.com/cheryst24-code-qa/hite-pro-test-postman)
 ---
     3. Автоматизированное API-тестирование HiTE PRO Gateway (боевое окружение)
        - Playwright + JavaScript, полное покрытие спецификации  
