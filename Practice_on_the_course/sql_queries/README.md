@@ -50,7 +50,7 @@ WHERE MeasurePoint_NodeID = 95;
 ```
 | Пример             |
 | -------------------|
-| ![Report](h./docs/db/db3_2.png) |
+| ![Report](./docs/db/db3_2.png) |
 
 ```sql
 SELECT Id, Title FROM dbo.NodeGroup

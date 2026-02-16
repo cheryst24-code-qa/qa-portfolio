@@ -94,7 +94,7 @@
 <details>
 <summary>🔗 Пример</summary>
 
-![Test Report](./Practice_on_the_course/sql_queries/docs/db.png)
+![Test Report](./Practice_on_the_course/sql_queries/docs/practice.png)
 
 </details>
 ---
