@@ -26,24 +26,24 @@
 
 ### Коллекция: **Reqres**
 #### **Get user** (GET запросы):
-1. [`user list`](/Practice_on_the_course/04_api_testing_postman/docs/create_user.png) - получение списка пользователей
-2. [`single user`](/Practice_on_the_course/04_api_testing_postman/docs/single_user.png) - получение одного пользователя
-3. [`min users`](/Practice_on_the_course/04_api_testing_postman/docs/min_user.png) - минимальное количество пользователей
-4. [`zero users`](/Practice_on_the_course/04_api_testing_postman/docs/zero_users.png) - пустой список пользователей  
-5. [`non-existent user`](/Practice_on_the_course/04_api_testing_postman/docs/non-existent_user.png) - несуществующий пользователь
-6. [`pagination`](/Practice_on_the_course/04_api_testing_postman/docs/pagination.png) - пагинация списка
+1. [`user list`](./docs/create_user.png) - получение списка пользователей
+2. [`single user`](./docs/single_user.png) - получение одного пользователя
+3. [`min users`](./docs/min_user.png) - минимальное количество пользователей
+4. [`zero users`](./docs/zero_users.png) - пустой список пользователей  
+5. [`non-existent user`](./docs/non-existent_user.png) - несуществующий пользователь
+6. [`pagination`](./docs/pagination.png) - пагинация списка
 
 #### **Post user** (POST/PUT/PATCH):
-7. [`create user`](/Practice_on_the_course/04_api_testing_postman/docs/create_user.png) - создание пользователя
-8. [`register user`](/Practice_on_the_course/04_api_testing_postman/docs/register_user.png) - регистрация пользователя
-9. [`update full user`](/Practice_on_the_course/04_api_testing_postman/docs/update_full_user.png) - полное обновление (PUT)
-10. [`update user`](/Practice_on_the_course/04_api_testing_postman/docs/update_user.png) - частичное обновление (PATCH)
-11. [`authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/authorization_user.png) - авторизация
-12. [`negative register user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_register_user.png) - негативная регистрация
-13. [`negative authorization user`](/Practice_on_the_course/04_api_testing_postman/docs/negative_authorization_user.png) - негативная авторизация
+7. [`create user`](./docs/create_user.png) - создание пользователя
+8. [`register user`](./docs/register_user.png) - регистрация пользователя
+9. [`update full user`](./docs/update_full_user.png) - полное обновление (PUT)
+10. [`update user`](./docs/update_user.png) - частичное обновление (PATCH)
+11. [`authorization user`](./docs/authorization_user.png) - авторизация
+12. [`negative register user`](./docs/negative_register_user.png) - негативная регистрация
+13. [`negative authorization user`](./docs/negative_authorization_user.png) - негативная авторизация
 
 #### **Delete** (DELETE запросы):
-14. [`delete user`](/Practice_on_the_course/04_api_testing_postman/docs/delete_user.png) - удаление пользователя
+14. [`delete user`](./docs/delete_user.png) - удаление пользователя
 
 ## Используемые технологии
 - **Postman** - основное тестирование

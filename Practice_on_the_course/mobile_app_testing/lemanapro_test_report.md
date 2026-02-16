@@ -261,7 +261,7 @@
 **Дата составления отчета:** 28 ноября 2025  
 **Статус отчета:** Завершен ✅
 
-[Оригинальный PDF отчет](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/02_mobile_app_testing/original_files/Mobile_app_testing_report.pdf)
+[Оригинальный PDF отчет](./original_files/mobile_app_testing_report.pdf)
 
 ### Дополнение по воспроизведению дефектов безопасности (от 30.11.2025)
 
@@ -270,6 +270,6 @@
 
 | Реальное устройство | Android Studio |
 | -------------------|-----------------|
-| ![Report1](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/02_mobile_app_testing/docs/mobile_1.png) | ![Report2](https://github.com/cheryst24-code-qa/qa-portfolio/blob/main/Practice_on_the_course/02_mobile_app_testing/docs/mobile_2.png) |
+| ![Report1](./docs/mobile_1.png ) | ![Report2](./docs/mobile_2.png) |
 
 **Вывод:** Все тесты безопасности, особенно связанные с инъекциями и обработкой ввода, **обязательно должны проводиться на физических устройствах**, так как эмуляторы могут не отражать реальное поведение приложения в продакшн-среде.
