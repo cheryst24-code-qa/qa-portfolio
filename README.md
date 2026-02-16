@@ -49,7 +49,7 @@
             - С5: Проверка восстановления доступа в личный кабинет интернет-банка.
     2. Тест-кейсы;
     3. Баг-репорты.   
-   [🔗 Пример](./Practice_on_the_course/web_banking_testing/analysis_report.md)
+   [🔗 Пример](./Practice_on_the_course/web_banking_testing)
 
 ---
 
@@ -94,7 +94,7 @@
 <details>
 <summary>🔗 Пример</summary>
 
-![Test Report](./Practice_on_the_course/e/sql_queries/docs/db.png)
+![Test Report](./Practice_on_the_course/sql_queries/docs/db.png)
 
 </details>
 ---
