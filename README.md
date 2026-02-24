@@ -79,7 +79,7 @@ QA Portfolio - Igor Cherkasov
     1. Используя инструмент, который эмулирует REST API: reqres.in - я отработал навык тестирования API
        в Postman. Я создал коллекцию, применив все основные HTTP-методы: GET, POST, PUT, PATCH, DELETE.
 
-[🔗 Тестирование API Reqres.in](./Practice_on_the_course/api_testing_postman/README.md)
+[🔗 Тестирование API Reqres.in](./Practice_on_the_course/api_testing_postman/API_testing.md)
 
 ---
 
