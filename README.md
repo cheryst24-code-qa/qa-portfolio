@@ -63,7 +63,7 @@
 
 - **Суть:** Агрегация отчётов из **OWASP ZAP** и **Burp Suite**.
 - **Фишки:** Дашборд severity/CWE, delta-сравнение между релизами (NEW/FIXED/REGRESSED) и AI-анализ уязвимостей.
-- 🔗 [Подробнее о SecInsight](https://si.neiroqa.ru)
+- 🔗 [Подробнее о SecInsight](https://neiroqa.ru)
 
 ### 🔹 LinkManager (База знаний QA)
 
