@@ -171,7 +171,7 @@
     3. Имея доступ к MS SQL ЛЭРС УЧЁТ (тестовое окружение) и к серверу ЛЭРС УЧЁТ (боевое окружение),
        я провел сравнение данных между REST API и MS SQL Server.
 
-🔗 [Валидация данных API и БД системы ЛЭРС](https://github.com/cheryst24-code-qa/qa-portfolio/tree/main/Practice_on_the_course)
+🔗 [Валидация данных API и БД системы ЛЭРС](https://github.com/cheryst24-code-qa/lers-api-db-check)
 
 ---
 
