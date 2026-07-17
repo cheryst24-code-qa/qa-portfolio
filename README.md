@@ -26,21 +26,21 @@
 **Тестирование:**
 
 - Функциональное, регрессионное, интеграционное тестирование
-- API-тестирование (Postman, Newman, Bruno, Swagger, REST)
-- UI-автоматизация (Playwright, JavaScript)
-- Нагрузочное тестирование (k6)
-- Security-тестирование (ZAP)
+- API-тестирование
+- UI-автоматизация
+- Нагрузочное тестирование
+- Security-тестирование
 - Мобильное тестирование (физические устройства, эмуляторы)
 - Тест-дизайн, написание тест-кейсов и баг-репортов
 
 **Технологии и инструменты:**
 
 - **Языки:** JavaScript, SQL
-- **Автоматизация:** Playwright, Postman, Newman, k6
+- **Автоматизация:** Playwright, Postman, Bruno, k6
 - **CI/CD:** GitHub Actions
 - **Базы данных:** PostgreSQL, MS SQL Server
 - **DevOps:** Docker, Docker Compose, VPS-деплой
-- **Безопасность:** OWASP ZAP
+- **Безопасность:** ZAP
 - **Отчётность:** HTML-отчёты, Telegram-уведомления
 - **Инструменты:** Git, VS Code, DevTools
 
