@@ -1,7 +1,7 @@
 Анализ веб-сайта интернет-банка БСПБ
 
 Дата анализа: Ноябрь 2025  
-Ссылка на файл: [website_analysis](./original_files/website-analysis.pdf)
+Ссылка на файл: [website_analysis](https://cloud.mail.ru/public/RJMY/9NvRoadv3)
 
 Шаг 1. Выбор веб-сайта
 
