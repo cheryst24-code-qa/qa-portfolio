@@ -38,7 +38,7 @@
 **Технологии и инструменты:**
 
 - **CI/CD:** GitHub Actions
-- **Базы данных:** PostgreSQL, MS SQL Server
+- **Базы данных:** MySQL
 - **DevOps:** Docker, Docker Compose, VPS-деплой
 - **Отчётность:** HTML-отчёты, Telegram-уведомления
 - **Инструменты:** Git, VS Code, DevTools
